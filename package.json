@@ -2,6 +2,10 @@
   "name": "chatgpt-api-demo",
   "version": "0.0.1",
   "packageManager": "pnpm@10.31.0",
+  "engines": {
+    "node": ">=18",
+    "pnpm": "10.31.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
